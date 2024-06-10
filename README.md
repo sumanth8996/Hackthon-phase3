@@ -32,4 +32,4 @@
 - *Community Engagement*: Pmart fosters a sense of community by connecting people with common interests in sustainability and recycling."
 
 ### Conclusion
-"In conclusion, Pmart is more than just a marketplace; it's a step towards a more sustainable future. By connecting sellers and buyers of recyclable items, we reduce waste, promote recycling, and support our local economies. I invite you all to join us in this initiative, whether as a seller, a buyer, or a supporter. Together, we can make a significant impact on our environment."
+"In conclusion, Pmart is more than just a marketplace; it's a step towards a more sustainable future. By connecting sellers and buyers of recyclable items, we reduce waste, promote recycling, and support our local economies. I invite you all to join us in this initiative, whether as a seller, a buyer, or a supporter. Together, we can make a significant impact on our environment." 
