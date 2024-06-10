@@ -34,17 +34,17 @@
 ### Conclusion
 "In conclusion, Pmart is more than just a marketplace; it's a step towards a more sustainable future. By connecting sellers and buyers of recyclable items, we reduce waste, promote recycling, and support our local economies. I invite you all to join us in this initiative, whether as a seller, a buyer, or a supporter. Together, we can make a significant impact on our environment." 
 
-##Signup Page
+#Signup Page
 ![signup](https://github.com/sumanth8996/Hackthon-phase3/assets/106905586/f84fd610-7747-4abf-bce9-b63d7ef8dd8a)
 
-##Main Page
+#Main Page
 ![main](https://github.com/sumanth8996/Hackthon-phase3/assets/106905586/7dfebe44-9ed0-4c95-94c0-d68b315d62f3)
 
-##Seller Page
+#Seller Page
 
 ![seller](https://github.com/sumanth8996/Hackthon-phase3/assets/106905586/580c4e99-1e0b-40c1-bdac-a7b99a0c37cc)
 
-##Buyer Page
+#Buyer Page
 ![buy](https://github.com/sumanth8996/Hackthon-phase3/assets/106905586/33c41223-f22f-47eb-a3ae-46360194d086)
 
 
